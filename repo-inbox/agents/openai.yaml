@@ -1,0 +1,3 @@
+display_name: Repo Inbox
+short_description: Turn repo-local inbox dispatches into plans using the destination repo's own instructions.
+default_prompt: Process a Markdown dispatch from this repository's inbox folder, follow the repo's own instructions, and turn it into a concrete repo-native plan without assuming the sender controls implementation details.
