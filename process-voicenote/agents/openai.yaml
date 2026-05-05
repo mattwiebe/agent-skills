@@ -1,0 +1,3 @@
+display_name: Process Voicenote
+short_description: Decompose qmd voicenotes into tasks, research, journal items, and routing notes.
+default_prompt: Process a voicenote transcript from the qmd voicenotes collection into reviewable tasks, research tasks, journal items, open questions, and routing notes without starting downstream agents.
